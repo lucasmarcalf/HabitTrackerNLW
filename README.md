@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habit é um app para ajudar a rastrear os hábitos diariamente.
+O Habit Tracker é um app para ajudar a rastrear os seus hábitos diariamente.
 
 - [Visite o projeto online](https://lucasmarcalf.github.io/HabitTrackerNLW)
 
